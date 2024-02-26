@@ -4,33 +4,40 @@
 
 ## Descrição da Atividade
 
-Nesta atividade, vocês serão desafiados a realizar uma Modelagem de Eventos para a solução proposta no projeto "Supermercado do Futuro". Utilizando os insights e conceitos discutidos durante o brainstorming, o objetivo é criar um modelo que detalhe os eventos chave do sistema, desde a entrada do cliente no supermercado até a conclusão da compra e saída do estabelecimento. Este exercício visa aprofundar o entendimento de como as tecnologias interagem e criam uma experiência de compra inovadora e eficiente.
+Nesta atividade, vocês serão desafiados a realizar uma Modelagem de Eventos para a solução proposta no projeto "Supermercado do Futuro". Utilizando os insights e conceitos discutidos e registrados durante o brainstorming (documentado abaixo), o objetivo é criar um modelo que detalhe os eventos chave do sistema, desde a entrada do cliente no supermercado até a conclusão da compra e saída do estabelecimento. Este exercício visa aprofundar o entendimento de como as tecnologias interagem e criam uma experiência de compra inovadora e eficiente neste cenário.
 
 ## Instruções
 
 __Formação de Grupos:__ A atividade pode ser realizada individualmente ou em grupos. Recomenda-se a formação dos mesmos grupos da Startup One, para facilitar a colaboração e a continuidade do trabalho em equipe.
 
-__Desenvolvimento da Modelagem:__ Utilize ferramentas de design de eventos, como diagramas ou softwares específicos de modelagem, para representar os eventos identificados durante o brainstorming. Uma boa alternativa de ferramenta colaborativa remota é o [Miro](https://miro.com/pt/).
+__Desenvolvimento da Modelagem:__ Utilize ferramentas de design de eventos, como diagramas ou softwares específicos de modelagem, para representar os eventos identificados durante o brainstorming.
 
-__Elaboração do Board Final:__ Ao concluir a modelagem, organize os eventos em um board lógico e coeso que represente o fluxo completo da experiência do cliente no Supermercado do Futuro.
+- [Miro](https://miro.com/pt/)
+- [https://jamboard.google.com/](google Jamboard)
+- [https://www.lucidchart.com/](LucidChart)
 
-__Envio da Atividade:__ O grupo deverá enviar uma imagem em alta resolução do board final. Certifique-se de que a imagem esteja clara e os eventos sejam facilmente identificáveis.
+__Elaboração do Board Final:__ Ao concluir a modelagem, organize os eventos em um board lógico e coeso que represente o fluxo completo da experiência do cliente no "Supermercado do Futuro".
+
+__Envio da Atividade:__ Dois possíveis meios de entrega, sendo:
+
+- O grupo deverá enviar uma imagem em alta resolução do board final.
+- O grupo deverá compartilhar o board para acesso do professor.
+
+Certifique-se de que a imagem esteja clara e os eventos sejam facilmente identificáveis. Em ambos os casos, utilize o e-mail proffernando.secol@fiap.com.br para entregar o seu trabalho.
 
 ## Critérios de Avaliação
 
 __Clareza e Coerência:__ A modelagem deve ser clara e lógica, com uma sequência coerente de eventos que reflita fielmente o fluxo proposto no brainstorming.
+
 __Completude:__ Todos os eventos-chave discutidos devem estar representados e devidamente detalhados.
+
 __Qualidade Visual:__ A imagem enviada deve ser de alta resolução, com boa legibilidade e organização dos elementos.
 
-## Prazo de Entrega
-
-Até 20/03/2024 - 23:00h.
-
-Este exercício é uma oportunidade valiosa para aplicar os conceitos de modelagem de eventos em uma solução prática, promovendo uma compreensão mais profunda da arquitetura e design de sistemas interativos. Boa sorte a todos!
+Este exercício é uma oportunidade para aplicar os conceitos de modelagem de eventos em uma solução prática, promovendo uma compreensão mais profunda da arquitetura e design de sistemas interativos. Boa sorte a todos!
 
 ---
 
-# Projeto "Supermercado do Futuro"
+# Brainstorming "Supermercado do Futuro"
 
 ## Acesso e Identificação do Cliente
 
@@ -54,4 +61,3 @@ Finalização da Compra e Saída
 
 1. __Tecnologia e Conveniência:__ Foco na utilização de tecnologias avançadas para proporcionar uma experiência de compra conveniente, personalizada e segura.
 2. __Integração de Sistemas:__ Importância da integração fluida entre o aplicativo do cliente, sistema de reconhecimento facial, sensores nos carrinhos/cestas e o gateway de pagamento.
-3. __Segurança e Privacidade:__ Garantir a segurança dos dados dos clientes e a privacidade no processamento de informações pessoais.
