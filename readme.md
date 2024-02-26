@@ -1,6 +1,6 @@
 # Atividade de Modelagem de Eventos: Supermercado do Futuro
 
-![img](./images/01.png)
+![img](https://raw.githubusercontent.com/Secol/fiap-amd-event-modeling/main/images/01.png)
 
 ## Descrição da Atividade
 
