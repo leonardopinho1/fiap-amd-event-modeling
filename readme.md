@@ -13,8 +13,8 @@ __Formação de Grupos:__ A atividade pode ser realizada individualmente ou em g
 __Desenvolvimento da Modelagem:__ Utilize ferramentas de design de eventos, como diagramas ou softwares específicos de modelagem, para representar os eventos identificados durante o brainstorming.
 
 - [Miro](https://miro.com/pt/)
-- [https://jamboard.google.com/](google Jamboard)
-- [https://www.lucidchart.com/](LucidChart)
+- [google Jamboard](https://jamboard.google.com/)
+- [LucidChart](https://www.lucidchart.com/)
 
 __Elaboração do Board Final:__ Ao concluir a modelagem, organize os eventos em um board lógico e coeso que represente o fluxo completo da experiência do cliente no "Supermercado do Futuro".
 
