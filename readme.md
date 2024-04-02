@@ -59,5 +59,4 @@ Finalização da Compra e Saída
 
 ## Considerações Gerais
 
-1. __Tecnologia e Conveniência:__ Foco na utilização de tecnologias avançadas para proporcionar uma experiência de compra conveniente, personalizada e segura.
-2. __Integração de Sistemas:__ Importância da integração fluida entre o aplicativo do cliente, sistema de reconhecimento facial, sensores nos carrinhos/cestas e o gateway de pagamento.
+1. __Integração de Sistemas:__ Importância da integração fluida entre o aplicativo do cliente, sistema de reconhecimento facial, sensores nos carrinhos/cestas e o gateway de pagamento.
