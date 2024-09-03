@@ -23,7 +23,7 @@ __Envio da Atividade:__ Dois possíveis meios de entrega, sendo:
 - O grupo deverá enviar uma imagem em alta resolução do board final.
 - O grupo deverá compartilhar o board para acesso do professor.
 
-Certifique-se de que a imagem esteja clara e os eventos sejam facilmente identificáveis. Em ambos os casos, utilize o e-mail proffernando.secol@fiap.com.br para entregar o seu trabalho.
+Certifique-se de que a imagem esteja clara e os eventos sejam facilmente identificáveis. Em ambos os casos, utilize o e-mail profleonardo.pinho@fiap.com.br para entregar o seu trabalho.
 
 ## Critérios de Avaliação
 
